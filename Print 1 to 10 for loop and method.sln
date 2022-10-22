@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Print 1 to 10 for loop and method", "Print 1 to 10 for loop and method\Print 1 to 10 for loop and method.csproj", "{A1ECBD01-8621-49F4-80DC-9964F1B57F06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1ECBD01-8621-49F4-80DC-9964F1B57F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1ECBD01-8621-49F4-80DC-9964F1B57F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1ECBD01-8621-49F4-80DC-9964F1B57F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1ECBD01-8621-49F4-80DC-9964F1B57F06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C1DD928-B466-45C7-B4A9-9BA6205A664F}
+	EndGlobalSection
+EndGlobal
